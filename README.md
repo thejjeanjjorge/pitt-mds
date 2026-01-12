@@ -18,31 +18,7 @@ Welcome — this repository collects highlights and course projects from my Mast
 
 ## Selected Projects
 
-1. Project A — Short project title
-	- Summary: One-line description of the problem and result.
-2. Project B — Short project title
-	- Summary: One-line description of the problem and result.
 
-Add project folders with a README and the primary notebook or script for each project.
-
-## How to run
-
-1. Clone the repo:
-
-```
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-```
-
-2. (Optional) Create a virtual environment and install requirements if present:
-
-```
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-3. Open notebooks in JupyterLab or run scripts directly.
 
 ## Skills & Tools
 
