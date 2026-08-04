@@ -18,7 +18,7 @@ Welcome — this repository collects highlights and course projects from my Mast
 
 ## Selected Projects
 
-
+- **[Spotify Songs EDA](https://github.com/thejjeanjjorge/pitt-mds/blob/main/Fernandes_Jean_EDA.ipynb)** — Exploratory data analysis on the Spotify Songs dataset (CMPINF 2100), investigating which audio features (danceability, energy, valence, acousticness) and playlist genre influence `track_popularity`.
 
 ## Skills & Tools
 
